@@ -1,5 +1,5 @@
 # Go URL Shortener API
-(ongoing)
+*(ongoing)*
 
 This project is a simple URL Shortener API built with Go.  
 It demonstrates backend API design, HTTP routing, and containerization using Docker.  
