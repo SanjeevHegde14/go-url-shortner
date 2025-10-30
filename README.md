@@ -28,8 +28,6 @@ At this stage, the project runs a basic Go HTTP server, which will be expanded t
 ---
 
 
----
-
 ## Running the Project Locally
 
 1. Clone this repository:
