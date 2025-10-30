@@ -27,19 +27,6 @@ At this stage, the project runs a basic Go HTTP server, which will be expanded t
 
 ---
 
-## Project Structure
-
-go-url-shortener/
-├── cmd/
-│ └── api/
-│ └── main.go
-├── internal/
-│ └── shortener/
-│ └── shortener.go
-├── .gitignore
-├── go.mod
-└── README.md
-
 
 ---
 
