@@ -28,7 +28,7 @@ At this stage, the project runs a basic Go HTTP server, which will be expanded t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<yourusername>/go-url-shortener.git
+   git clone https://github.com/SanjeevHegde14/go-url-shortener.git
    cd go-url-shortener
    ````
 
