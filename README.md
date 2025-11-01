@@ -1,11 +1,10 @@
 # Go URL Shortener API
-(ongoing)
+*(ongoing)*
 
 This project is a simple URL Shortener API built with Go.  
 It demonstrates backend API design, HTTP routing, and containerization using Docker.  
 The goal is to provide a practical learning example of building and deploying a RESTful Go service from scratch.
 
----
 
 ## Overview
 
@@ -16,7 +15,6 @@ The Go URL Shortener is a RESTful web service that allows users to:
 
 At this stage, the project runs a basic Go HTTP server, which will be expanded to handle real API logic and Dockerized deployment.
 
----
 
 ## Tech Stack
 
@@ -25,29 +23,12 @@ At this stage, the project runs a basic Go HTTP server, which will be expanded t
 - **Containerization:** Docker (in progress)
 - **Version Control:** Git + GitHub
 
----
-
-## Project Structure
-
-go-url-shortener/
-├── cmd/
-│ └── api/
-│ └── main.go
-├── internal/
-│ └── shortener/
-│ └── shortener.go
-├── .gitignore
-├── go.mod
-└── README.md
-
-
----
 
 ## Running the Project Locally
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<yourusername>/go-url-shortener.git
+   git clone https://github.com/SanjeevHegde14/go-url-shortener.git
    cd go-url-shortener
    ````
 
